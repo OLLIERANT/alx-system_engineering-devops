@@ -5,3 +5,4 @@ The long format
 Hidden files
 listing files digit only
 Creating the first directory
+Moving the file betty
