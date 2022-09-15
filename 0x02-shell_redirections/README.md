@@ -14,4 +14,11 @@ File 12-Writes a script that displays the first 10 newest files in the current w
 File 13-Creates a script that takes a list of words as input and prints only words that appear exactly once.
 File 14-Creates a script that displays lines containing the pattern 'root' from the file /etc/passwd.
 File 15-Writes a script that displays the number of lines that contain the pattern 'bin' in the file /etc/passwd.
+File 16-Writes a script that displays the line containing the pattern 'root' and three lines after them in the file /etc/passwd.
+File 17-Writes a script that displays all the lines in the file /etc/passwd that do not contain the pattern "bin".
+File 18-Writes a script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+File 19-Writes a script that replaces all characters A and C from input z and e respectively.
+File 20-Writes a script that removes all letters c and C from input.
+File 21-Writes a script that reverse it's input.
+File 22-Writes a script that displays all users and their home directories, sorted by users.
 
