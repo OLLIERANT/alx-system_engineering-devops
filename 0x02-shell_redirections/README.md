@@ -21,4 +21,8 @@ File 19-Writes a script that replaces all characters A and C from input z and e 
 File 20-Writes a script that removes all letters c and C from input.
 File 21-Writes a script that reverse it's input.
 File 22-Writes a script that displays all users and their home directories, sorted by users.
+File 23:Write a command that finds all empty files and directories in the current directory and all sub-directories.
+File 24:Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+File 25:Create a script that decodes acrostics that use the first letter of each line.
+File 26:Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
 
