@@ -1,4 +1,5 @@
 0x14. MySQL
+
 Concepts & Resources
 For this project, we expect you to look at these concepts:
 	Database administration
