@@ -17,4 +17,5 @@ File 0-use_a_private_key: Write a Bash script that uses ssh to connect to your s
 File 1-create_ssh_key_pair: Write a Bash script that creates an RSA key pair.
 
 File: 2-ssh_config: Share your SSH client configuration in your answer file.
+
 Task 3: Add public key provided to your web-01 server.
