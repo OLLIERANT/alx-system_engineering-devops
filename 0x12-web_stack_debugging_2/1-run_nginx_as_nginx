@@ -1,12 +1,7 @@
 #!/usr/bin/env bash
 # runs nginx as nginx
 pkill apache2
-# Stop the Nginx service if it's running
-service nginx stop
-
-# Modify the Nginx configuration file to run as the nginx user and listen on port 8080
-sed -i 's/^user .*;$/user nginx;/' /etc/nginx/nginx.conf
-sed -i 's/listen .*;/listen 8080;/g' /etc/nginx/sites-available/default
-
-# Start the Nginx service
-service nginx start
+chown nginx:nginx /etc/nginx/nginx.conf
+chmod 777 /etc/nginx/nginx.conf
+sed -i 's/80/8080/g' /etc/nginx/sites-available/default
+sudo -u nginx service nginx start
